@@ -1,0 +1,15 @@
+.border-bottom-only{
+  border: none;               
+  border-bottom: 1px solid grey; 
+}
+
+.border-bottom-only:focus{
+  box-shadow: none;           
+}
+.btn{
+    background-color: #1abc9c;
+}
+.btn.no-hover:hover{
+  background-color:  #1abc9c;
+  color: white;
+}

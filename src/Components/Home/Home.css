@@ -1,0 +1,12 @@
+.main{
+    height: 80vh;
+    background-color: #1abc9c;
+}
+.line{
+    width: 100px;
+    height: 4px;
+    background-color: white;
+}
+.icon{
+    margin-top: 2px;
+}
